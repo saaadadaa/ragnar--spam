@@ -8,4 +8,4 @@ pycryptodome
 urllib3
 pycryptodomex
 google-auth
-psutil
+pyTelegramBotAPI==4.16.0
